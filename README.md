@@ -49,7 +49,8 @@ Goal: Raise satisfaction scores by addressing specific stressors unique to that 
 Action: Train supervisors to provide specific, meaningful praise at least once every 7 days
 (directly targeting the low score).
 Goal: Reduce the 34.8% disagreement rate in the recognition category.
-Pillar 3: Social Infrastructure
+
+### Pillar 3: Social Infrastructure
 Action: Implement Cross-Functional Coffee or peer-mentoring programs for Staff-level
 employees.
 Goal: Improve the Best Friend at Work metric to foster a sense of belonging and reduce
